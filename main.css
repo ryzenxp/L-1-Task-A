@@ -8,7 +8,7 @@ section{
     position: relative;
     min-height: 100vh;
     
-    background-image: url(" taj.jpg");
+    background-image: url(" https://raw.githubusercontent.com/ryzenxp/L-1-Task-A/main/taj.jpg");
     
     background-repeat: no-repeat;
  background-attachment: fixed;
