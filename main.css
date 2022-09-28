@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins",sans-serif;
+}
+section{
+    position: relative;
+    min-height: 100vh;
+    
+    background-image: url(" taj.jpg");
+    
+    background-repeat: no-repeat;
+ background-attachment: fixed;
+background-size: 100% 100%;}
+ .container{
+    margin: 0 14% ;
+ }
+ .promotext{
+    padding-top: 24%;
+    color: #131822;
+    text-shadow: 5px 5px 20px #5762fa;
+ }
+ .promotext h3 {
+    font-size: 6rem;
+    line-height: 1;
+ }
+ .promotext p {
+    font-size: 2.2rem;
+    font-weight: 300;
+    margin-top: 45px;
+    
+ }
+ .bo button {
+    position: absolute;
+    left: 43%;
+    top: 58%;
+    
+    cursor: pointer;
+    color: #000000;
+    background: #45516b;
+    
+    font-weight: 500;
+    border-radius: 40px;
+    font-size: 15px;
+    padding: 18px 80px;
+    text-transform: uppercase;
+    box-shadow: 0 5px 12px #5762fa;
+
+
+ }
